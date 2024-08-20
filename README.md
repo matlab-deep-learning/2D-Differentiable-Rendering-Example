@@ -1,5 +1,7 @@
 # 2D Differentiable Rendering Example
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=matlab-deep-learning/2D-Differentiable-Rendering-Example)
+
 *Keywords: differentiable rendering, autodifferentiation, differentiable rasterization, inverse rendering*
 
 This repository provides an example of performing differentiable vector graphics rendering using MATLAB.
